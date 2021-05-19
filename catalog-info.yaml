@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: craigbensemann.github.io
+  annotations:
+    github.com/project-slug: craigbensemann/craigbensemann.github.io
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
