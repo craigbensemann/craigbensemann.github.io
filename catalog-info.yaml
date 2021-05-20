@@ -4,7 +4,7 @@ metadata:
   name: craigbensemann.github.io
   annotations:
     github.com/project-slug: craigbensemann/craigbensemann.github.io
-    backstage.io/techdocs-ref: craigbensemann.github.io
+    backstage.io/techdocs-ref: url:https://craigbensemann.github.io
 spec:
   type: other
   lifecycle: development
